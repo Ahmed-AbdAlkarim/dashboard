@@ -115,7 +115,6 @@ ul li a i{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    transition: .5s;
 }
 
 .data-info .box i{
@@ -136,9 +135,6 @@ table{
     border-spacing: 8px;
 }
 
-td{
-    transition: .5s;
-}
 
 td, th{
     background-color: #123;
